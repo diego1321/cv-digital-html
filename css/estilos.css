@@ -1,0 +1,39 @@
+*{
+    background-color:beige;
+    font-family:sans-serif ;
+}
+html, body, div, h1, h2{
+    margin:0px;
+    padding:0px;
+}
+
+p{
+    text-align: left;
+}
+.titulo{
+    text-align: left;
+    color:azure ;
+    padding: 10px;
+    background-color:rgb(81, 12, 241);
+    font-family:sans-serif ;
+}
+.icono{
+    width: 60px;
+}
+.tecnologia{
+    justify-content: space-between;
+    display: flex;
+    
+}
+.iconohtml{
+    width: 85px;
+}
+.tecnologias{
+    padding: 10px 15px;
+    margin: 10px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+h2{
+    margin-bottom: 10px;
+}
